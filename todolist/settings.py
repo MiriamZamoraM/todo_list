@@ -44,6 +44,7 @@ INSTALLED_APPS = [
 LOCAL_APPS = [
     # Local apps
     'users',
+    'tasks'
 ]
 
 INSTALLED_APPS = INSTALLED_APPS + LOCAL_APPS
